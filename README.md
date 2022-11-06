@@ -144,5 +144,5 @@ Please cite the corresponding attack or defense papers when using this code for 
 This framework was written by [Liam Fowl](https://github.com/lhfowl) and me ([Jonas Geiping](https://github.com/JonasGeiping)) with contributions by [Gowthami Somepalli](https://github.com/somepago), [Tom Goldstein](https://github.com/tomgoldstein) and [Gavin Taylor](https://github.com/gavinwtaylor).
 
 ## Contact
-If you have question, please raise an issue on this repository or write us an email.
+If you have questions, please raise an issue on this repository or write us an email.
 ¯\\\_(ツ)\_/¯
